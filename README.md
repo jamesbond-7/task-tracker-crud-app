@@ -1,12 +1,12 @@
-# Blood Back Webapp
+# Task Tracker App
 
 An application that performs basic CRUD opertaions developed with React, LocalStorage and other
 
 # Few Webshots
 
-![shot-1](https://github.com/jamesbond-7/task-tracker-crud-app/public/screenshots/task-tracker-screenshot.PNG)
-![shot-2](https://github.com/jamesbond-7/task-tracker-crud-app/public/screenshots/task-form-screenshot.PNG)
-![shot-3](https://github.com/jamesbond-7/task-tracker-crud-app/public/screenshots/review-task-screenshot.PNG)
+![shot-1](https://github.com/jamesbond-7/task-tracker-crud-app/blob/main/public/screenshots/task-tracker-screenshot.PNG)
+![shot-2](https://github.com/jamesbond-7/task-tracker-crud-app/blob/main/public/screenshots/task-form-screenshot.PNG)
+![shot-3](https://github.com/jamesbond-7/task-tracker-crud-app/blob/main/public/screenshots/review-task-screenshot.PNG)
 
 # Techno used
 
